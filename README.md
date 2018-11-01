@@ -6,7 +6,7 @@ Satisfaction Level, Salary increase, promotion, etc.
 
 B. Fraud Detection
 
-Predicting whether customer will do fraud toward company or not play a major role in business, mostly in financial institution such as credit card fraud, loan fraud. This project learn try to identify customer whether will make fraud or not using Logistic Regression model.
+Predicting whether customer will do fraud toward company or not play a major role in business, mostly in financial institution such as credit card fraud. This project learn try to identify customer whether will make fraud or not using Logistic Regression model.
 
 C. Global Store-Tableau
 
