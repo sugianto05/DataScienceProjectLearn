@@ -21,5 +21,6 @@
    the data until the data is ready to analysis.
    
 5. EDA Employee Churn
+
    This project about relation between one variable into other variable, how one variable affect the decision of employee left company.
    how many employee are leaving? Are promotion, number of projects, salary, etc affect employee leaving? 
