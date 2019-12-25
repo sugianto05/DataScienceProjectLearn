@@ -4,7 +4,8 @@
 
    This project about Exploratory Data Analyst into the data that look pattern in the dataset, try to look insight the data and be
    more familiar with the data. What is the relation between climate change with rental bike in London? when climate get worse, is it
-   influence rental bike? when is the best time for people to rent bike? these all question can be answered through Exploratory Data Analyst.
+   influence rental bike? when is the best time for people to rent bike? these all question can be answered through Exploratory Data      
+   Analyst.
 
 2. EDA Singapore AirBnb
 
@@ -18,3 +19,7 @@
 
    This project is about scrap data from website(Translation website), I use more complex scrap skills using beautiful soup, try to clean 
    the data until the data is ready to analysis.
+   
+5. EDA Employee Churn
+   This project about relation between one variable into other variable, how one variable affect the decision of employee left company.
+   how many employee are leaving? Are promotion, number of projects, salary, etc affect employee leaving? 
