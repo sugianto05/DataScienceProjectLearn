@@ -24,3 +24,8 @@
 
    This project about relation between one variable into other variable, how one variable affect the decision of employee left company.
    how many employee are leaving? Are promotion, number of projects, salary, etc affect employee leaving? 
+
+6. Stock Prediction
+ 
+   This project about predicting Nestle stock price using Support Vector Machine(SVM) and Linear Regression Model, which one of them
+   giving a better prediction? 
