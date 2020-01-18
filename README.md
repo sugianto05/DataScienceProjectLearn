@@ -27,5 +27,5 @@
 
 6. Stock Prediction
  
-   This project about predicting Nestle stock price using Support Vector Machine(SVM) and Linear Regression Model, which one of them
-   giving a better prediction? 
+   This project about predicting Nestle stock price using Support Vector Machine(SVM) and Linear Regression Model, which one of thesse
+   model giving a better prediction? 
