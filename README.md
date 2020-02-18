@@ -29,3 +29,8 @@
  
    This project about predicting Nestle stock price using Support Vector Machine(SVM) and Linear Regression Model, which one of thesse
    model giving a better prediction? The data is taken from yahoo finance which try to predict future stock of the price.
+   
+7. EDA Amazon Review
+    
+   This project about review product from Amazon website that can be categorized as positive or negative sentiment. Using Machine 
+   Learning to make prediction and classification based on customer comments.
