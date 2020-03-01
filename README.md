@@ -34,3 +34,9 @@
     
    This project about review product from Amazon website that can be categorized as positive or negative sentiment. Using Machine 
    Learning to make prediction and classification based on customer comments.
+   
+8. Mall Segmentation KMeans
+   
+   This project is about dividing customers into group by looking on their Age, Income and their Spending. We look by comparing between 
+   Age vs Income, Age vs Spending and Income vs Spending. With this Clustering we can divide customers by class and set a target 
+   strategy for a promotion to each different class.
